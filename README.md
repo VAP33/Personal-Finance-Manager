@@ -1,10 +1,10 @@
-#Personal Finance Manager 💰
+Personal Finance Manager 💰
 
 
 Welcome to the Personal Finance Manager! This handy tool helps you keep track of your income and expenses, so you can manage your finances with ease.
 Whether you want to budget better, save for something special, or just understand where your money goes, this program is here to help!
 
-#Features 🌟
+Features 🌟
 Add Income: Log your earnings easily, specifying the source and amount.
 
 Add Expenses: Keep track of what you spend by adding categories and amounts.
